@@ -1,0 +1,11 @@
+POST {{host}}/test01
+Content-Type: application/json
+
+{
+  "test01": {
+    "name": "hi",
+    "age": 12
+  }
+}
+
+###
